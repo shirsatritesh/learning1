@@ -1,2 +1,5 @@
 import numpy as np 
-np.array([34,34,4])
+x=np.array([34,34,4])
+
+np.sum(x)
+x+1
